@@ -1,3 +1,11 @@
-Cloudflare: Ping 1.1.1.1 -t 
+Google 
+Ping 8.8.8.8 -t 
+Ping 4.2.2.4 -t
 Request timed out. 
 Date : Sunday - April 26, 2026 
+
+You are experiencing a type of "restricted internet" (Intranet/Splinternet):
+- Application Layer (L7) is open: for lightweight searches.
+- Network Layer (L3) is restricted: access to external IP ranges is blocked or severely limited.
+- Protocol Layer is blocked: heavier or unusual protocols for bypassing filters are identified and stopped.
+
