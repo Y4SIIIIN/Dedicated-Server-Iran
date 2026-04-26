@@ -1,0 +1,5 @@
+RewriteEngine On
+
+# Redirect old domain links to new CDN links
+RewriteCond %{HTTP_HOST} ^cdn.com$ [NC]
+RewriteRule ^(.*)$ https://cdn.ir/$1 [R=301,L]
