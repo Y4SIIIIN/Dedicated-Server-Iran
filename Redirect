@@ -3,3 +3,7 @@ RewriteEngine On
 # Redirect old domain links to new CDN links
 RewriteCond %{HTTP_HOST} ^cdn.com$ [NC]
 RewriteRule ^(.*)$ https://cdn.ir/$1 [R=301,L]
+
+We provide fully managed international servers. 
+Direct connection via standard domestic internet is often restricted due to network limitations. 
+Access is seamless if you have a direct connection to international internet.
