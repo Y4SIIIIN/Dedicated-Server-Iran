@@ -11,3 +11,7 @@ apt upgrade -y
 
 CentOS 7 / CloudLinux 7
 sed -i 's/^CPANEL=.*/CPANEL=11.110/' /etc/cpupdate.conf
+
+Update cPanel
+/scripts/upcp --force
+
