@@ -1,2 +1,6 @@
 Web Hosting Control Panel & Server Management Tools
 /etc/resolv.conf
+
+AlmaLinux / RockyLinux / CentOS / CloudLinux
+yum makecache
+yum update -y
