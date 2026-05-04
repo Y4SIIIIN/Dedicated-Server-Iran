@@ -8,3 +8,6 @@ yum update -y
 Ubuntu
 apt update
 apt upgrade -y
+
+CentOS 7 / CloudLinux 7
+sed -i 's/^CPANEL=.*/CPANEL=11.110/' /etc/cpupdate.conf
