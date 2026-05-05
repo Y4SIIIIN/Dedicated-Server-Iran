@@ -14,4 +14,6 @@ sed -i 's/^CPANEL=.*/CPANEL=11.110/' /etc/cpupdate.conf
 
 Update cPanel
 /scripts/upcp --force
+Check version
+cat /usr/local/cpanel/version
 
