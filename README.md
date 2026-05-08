@@ -4,6 +4,7 @@ In situations where no Internet service providers (ISP) , even within Iran, are 
 Meaning only users who have mobile phones can access the Internet
 And even the operating systems of Iran's servers are not updatable.
 Unfortunately, someone who has never seen a computer in their lifetime, sets policies for such things.
+If you want to study, fields like Civil Engineering, Architecture, Computer Engineering, Electrical Engineering, Telecommunications Engineering, etc., are not suitable for you. Please choose fields that rely on books. Creating music and film, or attending a football academy, is better for visibility. I believe wealth is better than knowledge, and power is better than wealth.
 
 # Dedicated-Server-Iran
 Due to the war between Iran and the United States, the Iranian government has blocked all users' access to international internet, thus servers are forced to use domestic CDN and Iran's specific domain (ir).
