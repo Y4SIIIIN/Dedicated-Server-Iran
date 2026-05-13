@@ -1,3 +1,4 @@
+# The only difference between Iran and China or India is that Iran lacks a telecommunications satellite.
 # MONEY
 TGN-Gulf , GBI , FALCON
 # Internet Pro 
