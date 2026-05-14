@@ -1,3 +1,4 @@
+# It costs more to buy a brick than a mobile phone.
 # Android
 	There is a very important point you should pay attention to: 
 	Hetzner is not an American company, and the Bundesliga application is not American either. 
