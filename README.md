@@ -1,3 +1,8 @@
+# Android
+	There is a very important point you should pay attention to: 
+	Hetzner is not an American company, and the Bundesliga application is not American either. 
+	Iranian applications are only designed for Android and cannot be installed on Apple devices. 
+	Service in Iran is much lower than global standards, solely because the government wants data centers to operate within Iran's internal network.
 # The only difference between Iran and China or India is that Iran lacks a telecommunications satellite.
 # MONEY
 TGN-Gulf , GBI , FALCON
