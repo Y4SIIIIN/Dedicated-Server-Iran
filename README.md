@@ -1,4 +1,5 @@
 # It costs more to buy a brick than a mobile phone.
+UDP can be allowed in domestic Iranian networks, but still subject to Layer 4 filtering or policy-based blocking on international egress traffic.
 # Android
 	There is a very important point you should pay attention to: 
 	Hetzner is not an American company, and the Bundesliga application is not American either. 
