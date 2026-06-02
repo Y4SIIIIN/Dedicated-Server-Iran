@@ -1,3 +1,12 @@
+# NETWORK CONNECTIVITY NOTES
+
+Due to connectivity restrictions affecting some domestic data centers, direct access to servers located in other countries may not always be available.
+
+To establish a stable XRAY or V2RAY connection, the client should have access to a server or residential IP address located in the same country as the target website or service provider.
+
+In such environments, communication can be established using the TCP transport protocol. Other transport protocols may be unavailable or restricted, making TCP the preferred option for maintaining connectivity.
+
+
 # It costs more to buy a brick than a mobile phone.
 UDP can be allowed in domestic Iranian networks, but still subject to Layer 4 filtering or policy-based blocking on international egress traffic.
 # Android
