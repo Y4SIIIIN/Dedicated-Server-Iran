@@ -1,3 +1,10 @@
+<h3>Prerequisite</h3>
+
+<blockquote>
+A stable connection to Cloudflare and Google (ICMP or TCP) is required.<br>
+This confirms access to the international internet and external servers outside Iran.
+</blockquote>
+
 # NETWORK CONNECTIVITY NOTES
 
 Due to connectivity restrictions affecting some domestic data centers, direct access to servers located in other countries may not always be available.
